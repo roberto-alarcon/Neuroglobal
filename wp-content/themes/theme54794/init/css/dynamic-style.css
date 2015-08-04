@@ -1,0 +1,568 @@
+::-webkit-input-placeholder {
+    color: #888888;
+}
+
+:-moz-placeholder {
+	opacity: 1;
+    color: #888888;
+}
+
+::-moz-placeholder {
+	opacity: 1;
+    color: #888888;
+}
+
+:-ms-input-placeholder {
+    color: #888888;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#site-wrapper input[type="text"], #site-wrapper input[type="email"], #site-wrapper input[type="tel"], #site-wrapper textarea {
+	background: $color-secondary;
+}
+
+#site-wrapper input[type="submit"], #site-wrapper input[type="reset"] {
+	background: $color-primary;
+}
+
+	#site-wrapper input[type="submit"]:hover, #site-wrapper input[type="reset"]:hover {
+		background: $color-success;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+header.site-header .site-branding .site-title a:hover {
+	color: $color-secondary;
+}
+
+header.site-header .header-top.isStick {
+	background: $color-primary;
+}
+
+.site-description {
+	color: $color-secondary;
+}
+
+#menu-primary .menu-primary_trigger {
+	background: $color-success;
+	color: $color-secondary;
+}
+
+	#menu-primary .menu-primary_trigger:hover {
+		background: $color-secondary !important;
+		color: $color-primary !important;
+	}
+
+#menu-primary.isStick {
+	background: $color-primary;
+}
+
+#menu-primary ul ul {
+	background: $color-primary !important;
+}
+
+#menu-primary ul li a:before {
+	background: $color-success;
+	/*background: @success-color;*/
+}
+
+#menu-primary ul li li a {
+	color: $color-secondary;
+}
+
+	#menu-primary ul li li a:hover, #menu-primary ul li li.mega-toggle-on > a {
+		color: $color-success;
+	}
+
+	#menu-primary ul li li:hover > a, #menu-primary ul li li:focus > a {
+		color: $color-success;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.motoslider_wrapper .ms_layer strong {
+	color: #191919;
+}
+
+.motoslider_wrapper .ms_layer em {
+	color: $color-success;
+}
+
+.motoslider_wrapper a.ms_prev {
+	background: $color-secondary;
+}
+
+	.motoslider_wrapper a.ms_prev:hover {
+		background: $color-success;
+	}
+
+	.motoslider_wrapper a.ms_prev:before {
+		color: #1c1c1c;
+	}
+
+.motoslider_wrapper a.ms_next {
+	background: $color-secondary;
+}
+
+	.motoslider_wrapper a.ms_next:hover {
+		background: $color-success;
+	}
+
+	.motoslider_wrapper a.ms_next:before {
+		color: #1c1c1c;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.cherry-banner.style_1 .cherry-banner_content strong {
+	color: $color-success;
+}
+
+	.cherry-banner.style_1 .banner-btn a {
+		background: $color-success;
+		color: $color-secondary !important;
+	}
+
+		.cherry-banner.style_1 .banner-btn a:hover {
+			background: $color-primary;
+			color: $color-secondary !important;
+		}
+
+.cherry-posts-list.list_1 .post-thumbnail {
+	background: $color-success;
+}
+
+.team-wrap .team-listing .team-item h5 {
+	color: $color-secondary;
+}
+
+	.team-wrap .team-listing .team-item h5 a {
+		color: $color-secondary;
+	}
+
+	.team-wrap .team-listing .team-item h5 a:hover {
+		color: $color-success;
+	}
+
+a.cherry-btn-primary:hover {
+	background: $color-success !important;
+	color: $color-secondary !important;
+}
+
+.entry-permalink a.btn-default {
+	background: $color-success !important;
+	color: $color-secondary !important;
+}
+
+	.entry-permalink a.btn-default:hover {
+		background: $color-primary !important;
+		color: $color-secondary !important;
+	}
+
+.cherry-box.style_2 h2 {
+	color: $color-secondary;
+}
+
+.cherry-box.style_3 h2 {
+	color: $color-secondary;
+}
+
+.title-box.style_1 h2 {
+	background: $color-secondary;
+	color: $color-primary;
+}
+
+.parallax-box.style_1 {
+	color: $color-secondary;
+}
+
+	.parallax-box.style_1 h2 {
+		color: $color-secondary;
+	}
+
+.parallax-box.style_2 {
+	color: $color-secondary;
+}
+
+	.parallax-box.style_2 h2 {
+		color: $color-secondary;
+	}
+
+.cherry-swiper-carousel.style_1 .swiper-pagination .swiper-pagination-bullet {
+	border-color: $color-success;
+}
+
+	.cherry-swiper-carousel.style_1 .swiper-pagination .swiper-pagination-bullet:hover, .cherry-swiper-carousel.style_1 .swiper-pagination .swiper-pagination-bullet-active {
+		background: $color-secondary;
+		border-color: $color-secondary;
+	}
+
+.cherry-list ul li a {
+	color: $color-gray-variations;
+}
+
+	.cherry-list ul li a:hover {
+		color: $color-success;
+	}
+
+.cherry-list.type_1 ul li .list-icon {
+	color: $color-secondary;
+}
+
+.cherry-list.type_1 ul li a {
+	color: $color-secondary;
+}
+
+	.cherry-list.type_1 ul li a:hover {
+		color: $color-success;
+	}
+
+.widget-area h5 a {
+	color: $color-success !important;
+}
+
+	.widget-area h5 a:hover {
+		color: $color-primary !important;
+	}
+
+.widget-area ul li a {
+	color: $color-gray-variations;
+}
+
+	.widget-area ul li a:hover {
+		color: $color-success;
+	}
+
+.widget ul li a {
+	color: $color-gray-variations;
+}
+
+	.widget ul li a:hover {
+		color: $color-success;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#footer h3 {
+	color: $color-secondary;
+}
+
+.static-footer-sidebars a:hover {
+	color: $color-secondary;
+}
+
+	.static-footer-sidebars i {
+		color: $color-secondary;
+	}
+
+.cherry-footer-logo a:hover {
+	color: $color-secondary;
+}
+
+#static-area-footer-bottom {
+	background: #26292d;
+}
+
+.site-info {
+	color: $color-gray-variations;
+}
+
+	.site-info a {
+		color: $color-gray-variations;
+	}
+
+	.site-info a:hover {
+		color: $color-secondary;
+	}
+
+
+
+
+
+.static-social-follow ul li a {
+	color: #3c3c3c;
+}
+
+	.static-social-follow ul li a:hover {
+		color: $color-success;
+	}
+
+
+
+
+
+.menu-secondary ul li a:hover,
+.menu-secondary ul li.current-menu-item a {
+	color: $color-secondary;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.cherry-breadcrumbs .cherry-breadcrumbs_content .cherry-breadcrumbs_item a:hover,
+.cherry-breadcrumbs .cherry-breadcrumbs_content .cherry-breadcrumbs_item .cherry-breadcrumbs_item_target {
+	color: $color-success;
+}
+
+.rollover-content {
+	background: rgba(0,0,0,0.5) !important;
+}
+
+
+
+
+
+
+
+/*------------------------------------------------------------------------------------------------------------*/
+
+article.post h3 {
+	color: $color-success;
+}
+
+.entry-header h2.entry-title a {
+	color: $color-primary;
+}
+
+	.entry-header h2.entry-title a:hover {
+		color: $color-success;
+	}
+
+.entry-meta {
+	color: $color-primary;
+}
+
+	.entry-meta span:before {
+		color: $color-success;
+	}
+
+	.entry-meta a {
+		color: $color-primary;
+	}
+
+	.entry-meta a:hover {
+		color: $color-success;
+	}
+
+.author-bio {
+	background: $color-success;
+	color: $color-secondary;
+}
+
+	.author-bio h3 {
+		color: $color-secondary;
+	}
+
+		.author-bio h3 a {
+			color: $color-secondary;
+		}
+
+			.author-bio h3 a:hover {
+				color: $color-primary;
+			}
+
+ol.comment-list li .comment-body {
+	background: $color-success !important;
+	color: $color-secondary !important;
+}
+
+	ol.comment-list li .comment-body a {
+		color: $color-secondary !important;
+	}
+
+		ol.comment-list li .comment-body a:hover {
+			color: $color-primary !important;
+		}
+
+ol.comment-list li .comment-body .reply a {
+	background: $color-primary !important;
+}
+
+	ol.comment-list li .comment-body .reply a:hover {
+		background: $color-secondary !important;
+	}
+
+.portfolio-filter ul li a {
+	color: #$color-primary;
+}
+
+	.portfolio-filter ul li a:hover, .portfolio-filter ul li.active a {
+		background: $color-primary;
+		color: $color-secondary !important;
+	}
+
+body.single-portfolio article.type-portfolio .cherry-portfolio-single-post a:hover {
+	color: $color-success;
+}
+
+.portfolio-pagination a {
+	background: $color-primary !important;
+	color: $color-secondary !important;
+}
+
+	.portfolio-pagination a:hover, .portfolio-pagination li.active a {
+		background: $color-success !important;
+		color: $color-secondary !important;
+	}
+
+.portfolio-list .inner-wrap {
+	background: none !important;
+}
+
+.portfolio-list .inner-wrap .item-content {
+	background: $color-success;
+	color: $color-secondary;
+}
+
+	.portfolio-list .inner-wrap .item-content h4, .portfolio-list .inner-wrap .item-content h5 {
+		color: $color-secondary;
+	}
+
+	.portfolio-list .inner-wrap .item-content h3 {
+		color: $color-secondary;
+	}
+
+		.portfolio-list .inner-wrap .item-content h3 a {
+			color: $color-secondary;
+		}
+
+			.portfolio-list .inner-wrap .item-content h3 a:hover {
+				color: $color-primary;
+			}
+
+	.portfolio-list .inner-wrap .item-content h2 {
+		color: $color-secondary;
+	}
+
+		.portfolio-list .inner-wrap .item-content h2 a {
+			color: $color-secondary;
+		}
+
+			.portfolio-list .inner-wrap .item-content h2 a:hover {
+				color: $color-primary;
+			}
+
+	.portfolio-list .inner-wrap .item-content .post-format {
+		color: $color-secondary;
+	}
+
+	.portfolio-list .inner-wrap .item-content a {
+		color: $color-secondary;
+	}
+
+		.portfolio-list .inner-wrap .item-content a:hover {
+			color: $color-primary;
+		}
+
+.cherry-accordion .cherry-spoiler-closed .cherry-spoiler-title {
+	color: $color-primary;
+}
+
+.cherry-accordion .cherry-spoiler-title, .cherry-accordion .cherry-spoiler-title:hover {
+	color: $color-success;
+}
+
+.cherry-portfolio-ajax-loader .cherry-spinner .cherry-double-bounce1 {
+	background-color: $color-success;
+}
+
+.cherry-portfolio-ajax-loader .cherry-spinner .cherry-double-bounce2 {
+	background-color: $color-primary;
+}
+
+#commentform a:hover {
+	color: $color-success !important;
+}
+
+.load-more-button a:hover {
+	background: $color-success !important;
+}
+
+.error-404 .error-404-num {
+	color: $color-success;
+}

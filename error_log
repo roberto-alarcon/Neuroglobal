@@ -1,0 +1,1 @@
+[04-Aug-2015 19:38:25 UTC] PHP Fatal error:  Call to undefined function cherry_get_option() in /home/dolorespalda1/public_html/wp-content/plugins/cherry-shortcodes/inc/filters.php on line 185
